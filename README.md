@@ -63,6 +63,16 @@ My GitHub is a working portfolio of ideas, experiments, and reusable starting po
   </tr>
 </table>
 
+## Selected writing — Doctor Salesforce
+
+I also publish perspectives on Salesforce architecture, enterprise delivery, and technology transformation through [Doctor Salesforce on Medium](https://medium.com/doctorsalesforce).
+
+- **[Salesforce Headless: A Strategic Repositioning, Not a Revolution](https://medium.com/doctorsalesforce/salesforce-headless-a-strategic-repositioning-not-a-revolution-09248861a105)** — a critical look at the architecture narrative around headless Salesforce.
+- **[Salesforce Project Survival Manual — 100 Unspoken Truths](https://medium.com/doctorsalesforce/medium-series-4-part-salesforce-project-management-guide-18befb9de72b)** — lessons on project delivery, technical realities, scope, and governance.
+- **[The Ethical Implications of Using AI and Machine Learning in Healthcare](https://medium.com/doctorsalesforce/the-ethical-implications-of-using-ai-and-machine-learning-in-healthcare-603c517d11ab)** — industry-focused thinking about AI, privacy, bias, and transparency.
+
+**Read the ideas. Explore the code. Adapt what works.** I aim to connect practical technology commentary with projects and experiments people can inspect and build on.
+
 ## What I’m interested in building
 
 <p>
