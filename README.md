@@ -11,7 +11,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sumitmattey/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sumitmattey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/sumit.mattey/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sumit.mattey-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://github.com/mattey2026?tab=repositories"><img alt="Explore repositories" src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/mattey2026"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-mattey2026-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/mattey2026?tab=repositories"><img alt="Explore my work" src="https://img.shields.io/badge/Explore-my%20work-333333?style=for-the-badge"></a>
 </p>
 
 ---
@@ -115,7 +116,8 @@ Ideas, constructive feedback, and contributions are welcome through GitHub issue
 
 - 💼 **LinkedIn:** [linkedin.com/in/sumitmattey](https://www.linkedin.com/in/sumitmattey/)
 - 📸 **Instagram:** [@sumit.mattey](https://www.instagram.com/sumit.mattey/)
-- 💻 **GitHub:** [github.com/mattey2026](https://github.com/mattey2026?tab=repositories)
+- 💻 **GitHub profile:** [github.com/mattey2026](https://github.com/mattey2026)
+- 🚀 **Explore all repositories:** [github.com/mattey2026?tab=repositories](https://github.com/mattey2026?tab=repositories)
 
 ---
 
