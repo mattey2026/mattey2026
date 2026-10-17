@@ -47,8 +47,9 @@ This GitHub is my proof-of-work portfolio: original projects, practical experime
   <tr>
     <td width="50%" valign="top">
       <h3>✍️ <a href="https://github.com/mattey2026/writing-intelligence-studio">Writing Intelligence Studio</a></h3>
-      <p><strong>Research-aware editorial workflows</strong></p>
+      <p><strong>Published in the Anthropic directory · v1.1.0</strong></p>
       <p>A multi-stage workflow for research, drafting, skeptical editing, copy editing and fact-checking—designed to make writing more deliberate, source-aware and reviewable than one-shot generation.</p>
+      <p><strong>Available through:</strong> Claude Code, Cowork and Claude apps.</p>
       <p><strong>Explore:</strong> Claude skills, research-led writing and content quality.</p>
       <p><a href="https://github.com/mattey2026/writing-intelligence-studio">Explore the project →</a></p>
     </td>
@@ -107,6 +108,7 @@ I publish perspectives on Salesforce architecture, enterprise delivery and techn
 - 🎥 **YouTube:** [AI Guy](https://www.youtube.com/@AIGuy-2050)
 - ✍️ **Doctor Salesforce:** [Medium publication](https://medium.com/doctorsalesforce)
 - 💻 **GitHub:** [github.com/mattey2026](https://github.com/mattey2026)
+- 🔬 **ORCID:** [0009-0000-6304-894X](https://orcid.org/0009-0000-6304-894X)
 
 If a repository helps with a problem you are solving, read its README, check its current status and license, then fork and adapt what works. Constructive feedback and contributions are welcome through issues and pull requests.
 
