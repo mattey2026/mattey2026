@@ -4,121 +4,114 @@
 
 <h1 align="center">Sumit Mattey</h1>
 <p align="center">
-  <strong>Enterprise AI • AI Agents • Salesforce Architecture • Decision Intelligence</strong><br>
-  <em>Building practical AI systems for real enterprise work.</em>
+  <strong>Enterprise AI Architecture · Agentic Systems · Salesforce · Decision Intelligence</strong><br>
+  <em>Building AI systems that turn enterprise context into evidence-backed decisions and governed action.</em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sumitmattey/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-sumitmattey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/sumit.mattey/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-sumit.mattey-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.youtube.com/@AIGuy-2050"><img alt="YouTube — AI Guy" src="https://img.shields.io/badge/YouTube-AI%20Guy-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
   <a href="https://github.com/mattey2026"><img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-mattey2026-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://medium.com/doctorsalesforce"><img alt="Explore my Medium writing" src="https://img.shields.io/badge/Explore-My%20Medium%20Work-00AB6C?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://medium.com/doctorsalesforce"><img alt="Doctor Salesforce on Medium" src="https://img.shields.io/badge/Explore-Doctor%20Salesforce-00AB6C?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
 
 ---
 
-## About me
+## What I work on
 
-I’m an enterprise technology and transformation leader with **22 years in the Salesforce ecosystem**. My work and interests sit at the intersection of **enterprise architecture, business transformation, and applied AI**.
+I’m an enterprise technology and transformation leader with **22 years in the Salesforce ecosystem**, working at the intersection of enterprise architecture, business transformation and applied AI.
 
-I’m exploring a practical question: **How do we move AI beyond chat interfaces and isolated copilots into systems that understand business context, connect to enterprise tools, and help people make better decisions?**
+My central question is: **How can we move AI beyond chat interfaces and isolated copilots into systems that understand business context, connect to enterprise tools, and help people make better decisions—with evidence, governance and human control?**
 
-That question shapes the projects I build and share here—from Claude-powered growth intelligence and structured writing workflows to Salesforce-based operational solutions.
+This GitHub is my proof-of-work portfolio: original projects, practical experiments and reusable starting points exploring that question. I value understandable architecture, reproducible quality and useful outcomes over impressive demos alone.
 
-My GitHub is a working portfolio of ideas, experiments, and reusable starting points. I want the work to be understandable, useful, and adaptable—not just impressive in a demo.
-
-## Featured projects — explore, use, fork
+## Start here — selected projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 <a href="https://github.com/mattey2026/growth-intelligence-platform">Growth Intelligence Platform</a></h3>
-      <p><strong>Claude-powered enterprise growth and decision intelligence</strong></p>
-      <p>Explore business questions across accounts, customers, sales, competition, marketing, finance, markets, meetings, and decisions. The ambition is to make business intelligence an interactive decision layer rather than another static dashboard.</p>
-      <p><strong>Useful for:</strong> Enterprise AI, Claude workflows, AI agents, account intelligence, growth strategy, and decision-support prototypes.</p>
-      <p><a href="https://github.com/mattey2026/growth-intelligence-platform">View project →</a></p>
+      <p><strong>Flagship · Enterprise growth and decision intelligence</strong></p>
+      <p>A Claude-powered platform for business analysis across accounts, sales, customers, competition, marketing, finance, meetings and decisions. It explores how specialist agents, business memory, deterministic calculations, evidence and approval gates can work together as a decision layer.</p>
+      <p><strong>Explore:</strong> Enterprise AI, agent orchestration, decision support, business memory, analytics and governed actions.</p>
+      <p><a href="https://github.com/mattey2026/growth-intelligence-platform">Explore the platform →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>✍️ <a href="https://github.com/mattey2026/writing-intelligence-studio">Writing Intelligence Studio</a></h3>
-      <p><strong>A multi-stage, research-aware editorial workflow</strong></p>
-      <p>Uses distinct stages for research, drafting, skeptical editing, copy editing, and fact checking to make long-form writing more deliberate, source-aware, and reviewable than one-shot generation.</p>
-      <p><strong>Useful for:</strong> Claude skills, research-led writing, editorial automation, content quality, and publishing workflows.</p>
-      <p><a href="https://github.com/mattey2026/writing-intelligence-studio">View project →</a></p>
+      <h3>🧭 <a href="https://github.com/mattey2026/ona-relationship-intelligence">ONA Relationship Intelligence</a></h3>
+      <p><strong>Relationship analytics inside Salesforce</strong></p>
+      <p>Explores graph-based relationship intelligence and connected enterprise workflows, using algorithms to help surface patterns in business relationships.</p>
+      <p><strong>Explore:</strong> Salesforce architecture, graph analytics and relationship intelligence.</p>
+      <p><a href="https://github.com/mattey2026/ona-relationship-intelligence">Explore the project →</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⚙️ <a href="https://github.com/mattey2026/VendorPulse">VendorPulse</a></h3>
-      <p><strong>Procurement renewal tracking in Salesforce</strong></p>
-      <p>A Salesforce Lightning Web Component and Apex project focused on purchase-order renewals, renewal status, contract values, reporting, and spreadsheet-based data movement.</p>
-      <p><strong>Useful for:</strong> Salesforce developers, Lightning Web Components, Apex, procurement workflows, and operational dashboards.</p>
-      <p><a href="https://github.com/mattey2026/VendorPulse">View project →</a></p>
+      <h3>✍️ <a href="https://github.com/mattey2026/writing-intelligence-studio">Writing Intelligence Studio</a></h3>
+      <p><strong>Research-aware editorial workflows</strong></p>
+      <p>A multi-stage workflow for research, drafting, skeptical editing, copy editing and fact-checking—designed to make writing more deliberate, source-aware and reviewable than one-shot generation.</p>
+      <p><strong>Explore:</strong> Claude skills, research-led writing and content quality.</p>
+      <p><a href="https://github.com/mattey2026/writing-intelligence-studio">Explore the project →</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧭 <a href="https://github.com/mattey2026/ona-relationship-intelligence">ONA Relationship Intelligence</a></h3>
-      <p><strong>Exploring relationship intelligence</strong></p>
-      <p>An evolving project exploring relationship intelligence and connected enterprise workflows. Follow its development as the concept takes shape.</p>
-      <p><strong>Useful for:</strong> Connected information, relationship intelligence, and enterprise workflow ideas.</p>
-      <p><a href="https://github.com/mattey2026/ona-relationship-intelligence">View project →</a></p>
+      <h3>⚙️ <a href="https://github.com/mattey2026/VendorPulse">VendorPulse</a></h3>
+      <p><strong>Procurement workflows in Salesforce</strong></p>
+      <p>A Salesforce project focused on purchase-order renewals, renewal status, contract values, reporting and spreadsheet-based data movement.</p>
+      <p><strong>Explore:</strong> Salesforce, Lightning Web Components, Apex and operational workflows.</p>
+      <p><a href="https://github.com/mattey2026/VendorPulse">Explore the project →</a></p>
     </td>
   </tr>
 </table>
 
+## Architecture principles
+
+| Principle | How I apply it |
+|---|---|
+| **Evidence over guesses** | Make sources, assumptions and inputs inspectable. |
+| **Outcomes over theatre** | Solve a concrete workflow or decision problem. |
+| **Governed autonomy** | Keep consequential actions reviewable and approval-driven. |
+| **Deterministic where it matters** | Use code for calculations and explicit contracts for critical outputs. |
+| **Quality is part of the product** | Treat tests, evaluations, documentation and review as core work. |
+| **Reusable by design** | Make systems understandable, modular and adaptable. |
+
 ## Selected writing — Doctor Salesforce
 
-I also publish perspectives on Salesforce architecture, enterprise delivery, and technology transformation through [Doctor Salesforce on Medium](https://medium.com/doctorsalesforce).
+I publish perspectives on Salesforce architecture, enterprise delivery and technology transformation through [Doctor Salesforce on Medium](https://medium.com/doctorsalesforce).
 
-- **[Salesforce Headless: A Strategic Repositioning, Not a Revolution](https://medium.com/doctorsalesforce/salesforce-headless-a-strategic-repositioning-not-a-revolution-09248861a105)** — a critical look at the architecture narrative around headless Salesforce.
-- **[Salesforce Project Survival Manual — 100 Unspoken Truths](https://medium.com/doctorsalesforce/medium-series-4-part-salesforce-project-management-guide-18befb9de72b)** — lessons on project delivery, technical realities, scope, and governance.
-- **[The Ethical Implications of Using AI and Machine Learning in Healthcare](https://medium.com/doctorsalesforce/the-ethical-implications-of-using-ai-and-machine-learning-in-healthcare-603c517d11ab)** — industry-focused thinking about AI, privacy, bias, and transparency.
+- **[Salesforce Headless: A Strategic Repositioning, Not a Revolution](https://medium.com/doctorsalesforce/salesforce-headless-a-strategic-repositioning-not-a-revolution-09248861a105)** — examining the architecture narrative around headless Salesforce.
+- **[Salesforce Project Survival Manual — 100 Unspoken Truths](https://medium.com/doctorsalesforce/medium-series-4-part-salesforce-project-management-guide-18befb9de72b)** — lessons on delivery, technical realities, scope and governance.
+- **[The Ethical Implications of Using AI and Machine Learning in Healthcare](https://medium.com/doctorsalesforce/the-ethical-implications-of-using-ai-and-machine-learning-in-healthcare-603c517d11ab)** — perspectives on privacy, bias and transparency.
 
-**Read the ideas. Explore the code. Adapt what works.** I aim to connect practical technology commentary with projects and experiments people can inspect and build on.
+**Read the ideas. Explore the code. Adapt what works.** I aim to connect practical technology commentary with projects people can inspect and build on.
 
-## What I’m interested in building
+## Areas of focus
 
 <p>
   <img alt="Enterprise AI" src="https://img.shields.io/badge/Enterprise-AI-14213D?style=flat-square">
-  <img alt="Claude" src="https://img.shields.io/badge/Claude-Skills%20%26%20Workflows-D97757?style=flat-square">
   <img alt="AI Agents" src="https://img.shields.io/badge/AI-Agents-355070?style=flat-square">
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-Skills%20%26%20Workflows-D97757?style=flat-square">
   <img alt="MCP" src="https://img.shields.io/badge/Model%20Context%20Protocol-MCP-386641?style=flat-square">
   <img alt="Salesforce" src="https://img.shields.io/badge/Salesforce-Architecture-0A8ED9?style=flat-square">
   <img alt="Decision Intelligence" src="https://img.shields.io/badge/Decision-Intelligence-6D597A?style=flat-square">
   <img alt="Knowledge Systems" src="https://img.shields.io/badge/Knowledge-Systems-4F6D7A?style=flat-square">
 </p>
 
-- **Enterprise AI and decision intelligence** — connecting business context, evidence, analysis, and action.
-- **Claude, skills, and agentic workflows** — building repeatable systems around specialized tasks, not just prompts.
-- **MCP and enterprise integration** — exploring how AI can connect to tools and business systems responsibly.
-- **Salesforce and enterprise architecture** — applying architecture and integration thinking to real operational needs.
-- **Knowledge and writing systems** — making research, context, and quality reusable.
+- **Enterprise AI and decision intelligence** — connecting business context, evidence, analysis and action.
+- **Agentic workflows** — designing repeatable systems around specialized tasks, not just prompts.
+- **MCP and enterprise integration** — connecting AI to tools and business systems responsibly.
+- **Salesforce and enterprise architecture** — applying architecture and integration thinking to operational needs.
+- **Knowledge systems** — making context, research and decisions reusable.
 
-## Principles behind the projects
+## Explore and connect
 
-| Principle | How it shows up in the work |
-|---|---|
-| Evidence over guesses | Make sources, assumptions, and inputs inspectable. |
-| Outcomes over theatre | Solve a concrete workflow or decision problem. |
-| Human control where it matters | Keep consequential actions reviewable and approval-driven. |
-| Modular and reusable | Make ideas easier to understand, adapt, and extend. |
-| Quality is part of the product | Treat testing, evaluation, documentation, and review as core work. |
+- 💼 **LinkedIn:** [linkedin.com/in/sumitmattey](https://www.linkedin.com/in/sumitmattey/)
+- 🎥 **YouTube:** [AI Guy](https://www.youtube.com/@AIGuy-2050)
+- ✍️ **Doctor Salesforce:** [Medium publication](https://medium.com/doctorsalesforce)
+- 💻 **GitHub:** [github.com/mattey2026](https://github.com/mattey2026)
 
-## Fork it. Adapt it. Build on it.
-
-If a repository helps with a problem you are solving, **fork it and make it useful in your own environment**. Read the project README first, check its current status and license, and start with the smallest piece that creates value.
-
-Ideas, constructive feedback, and contributions are welcome through GitHub issues and pull requests. If you build something interesting from one of these starting points, I’d love to hear what you learned.
+If a repository helps with a problem you are solving, read its README, check its current status and license, then fork and adapt what works. Constructive feedback and contributions are welcome through issues and pull requests.
 
 <p align="center">
   <strong>Build thoughtfully. Share openly. Make AI useful.</strong>
 </p>
-
-## Find me elsewhere
-
-- 💼 **LinkedIn:** [linkedin.com/in/sumitmattey](https://www.linkedin.com/in/sumitmattey/)
-- 📸 **Instagram:** [@sumit.mattey](https://www.instagram.com/sumit.mattey/)
-- 💻 **GitHub profile:** [github.com/mattey2026](https://github.com/mattey2026)
-- ✍️ **Explore my Medium work:** [Doctor Salesforce on Medium](https://medium.com/doctorsalesforce)
-
----
 
 <p align="center"><sub>Enterprise AI · Agentic systems · Salesforce architecture · MCP · Decision intelligence</sub></p>
